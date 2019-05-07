@@ -1,4 +1,4 @@
-This project is Sensational News Detection. We have built a Jupyter Notebook using which you can run the code. Following files are used:
+This project is Sensational News Detection. This was submitted as a CSI6900 Graduate project under the guidance of Dr. Diana Inkpen. We have built a Jupyter Notebook using which you can run the code. Following files are used:
 1. ObjectiveSensationalist_Baseline.py - This file is used to demonstrate the baseline model i.e. Bernoulli's Naive Bayes model.
 2. SensationalismNews_Classification.ipynb - This is a jupyter notebook built on Google Colaboratory tool. This contains all the existing outputs. And if you want to run then please follow the following instructions.
 
